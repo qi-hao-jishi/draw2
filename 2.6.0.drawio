@@ -39,8 +39,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I7lsxN3QOF1V1FdQuKwC-5" value="待补充资料" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="I7lsxN3QOF1V1FdQuKwC-5" value="待补充资料&lt;br&gt;(短信通知&lt;br&gt;系统消息)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I7lsxN3QOF1V1FdQuKwC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I7lsxN3QOF1V1FdQuKwC-8" target="I7lsxN3QOF1V1FdQuKwC-10">
           <mxGeometry relative="1" as="geometry" />
@@ -58,10 +58,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I7lsxN3QOF1V1FdQuKwC-19" value="审核通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I7lsxN3QOF1V1FdQuKwC-18">
+        <mxCell id="I7lsxN3QOF1V1FdQuKwC-19" value="审核通过&lt;br&gt;&lt;div style=&quot;font-family: PingFangSC-Regular, &amp;quot;PingFang SC&amp;quot;; font-size: 13px; color: rgb(51, 51, 51); line-height: normal; border-width: 0px; position: absolute; left: 0px; top: 282px; width: 120px; height: 36px; text-wrap-mode: wrap;&quot; class=&quot;ax_default table_cell&quot; id=&quot;u3227&quot;&gt;&lt;div style=&quot;border-width: 0px; position: absolute; left: 2px; top: 9px; width: 116px; overflow-wrap: break-word;&quot; class=&quot;text&quot; id=&quot;u3227_text&quot;&gt;&lt;p style=&quot;margin: 0px; text-rendering: optimizelegibility; font-feature-settings: &amp;quot;kern&amp;quot;; font-kerning: normal;&quot;&gt;店铺资料审核通知&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-family: PingFangSC-Regular, &amp;quot;PingFang SC&amp;quot;; font-size: 13px; color: rgb(51, 51, 51); line-height: normal; border-width: 0px; position: absolute; left: 120px; top: 282px; width: 220px; height: 36px; text-wrap-mode: wrap;&quot; class=&quot;ax_default table_cell&quot; id=&quot;u3228&quot;&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I7lsxN3QOF1V1FdQuKwC-18">
           <mxGeometry x="0.0667" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I7lsxN3QOF1V1FdQuKwC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="I7lsxN3QOF1V1FdQuKwC-8" target="I7lsxN3QOF1V1FdQuKwC-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I7lsxN3QOF1V1FdQuKwC-8" value="资料待审核" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="480" width="120" height="60" as="geometry" />
@@ -85,13 +88,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I7lsxN3QOF1V1FdQuKwC-25" value="店铺修改店铺信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I7lsxN3QOF1V1FdQuKwC-24">
+        <mxCell id="I7lsxN3QOF1V1FdQuKwC-25" value="店铺修改店铺信息(&lt;span style=&quot;color: rgb(51, 51, 51); font-family: PingFangSC-Regular, &amp;quot;PingFang SC&amp;quot;; font-size: 13px; text-wrap-mode: wrap;&quot;&gt;店铺资料完善通知&lt;/span&gt;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I7lsxN3QOF1V1FdQuKwC-24">
           <mxGeometry x="0.0583" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="I7lsxN3QOF1V1FdQuKwC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="I7lsxN3QOF1V1FdQuKwC-12" target="I7lsxN3QOF1V1FdQuKwC-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="510" />
+              <mxPoint x="750" y="740" />
+              <mxPoint x="60" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I7lsxN3QOF1V1FdQuKwC-12" value="观点整改" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I7lsxN3QOF1V1FdQuKwC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="I7lsxN3QOF1V1FdQuKwC-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I7lsxN3QOF1V1FdQuKwC-27" value="3个地方通知&lt;br&gt;极光,移动消息,pc消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I7lsxN3QOF1V1FdQuKwC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.125;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="I7lsxN3QOF1V1FdQuKwC-5" target="I7lsxN3QOF1V1FdQuKwC-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
