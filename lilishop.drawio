@@ -1,9 +1,46 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="第 1 页" id="MRtm9L9TmP78JiR3Z8Hy">
-    <mxGraphModel>
+    <mxGraphModel dx="2065" dy="890" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d457qkSsfXu1P2RVq4Ds-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d457qkSsfXu1P2RVq4Ds-1" target="d457qkSsfXu1P2RVq4Ds-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d457qkSsfXu1P2RVq4Ds-1" value="事件出发消费者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-109" y="206" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d457qkSsfXu1P2RVq4Ds-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d457qkSsfXu1P2RVq4Ds-2" target="d457qkSsfXu1P2RVq4Ds-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d457qkSsfXu1P2RVq4Ds-2" value="获取事件key" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-109" y="302" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d457qkSsfXu1P2RVq4Ds-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d457qkSsfXu1P2RVq4Ds-4" target="d457qkSsfXu1P2RVq4Ds-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d457qkSsfXu1P2RVq4Ds-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="d457qkSsfXu1P2RVq4Ds-11">
+          <mxGeometry x="0.0233" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d457qkSsfXu1P2RVq4Ds-4" value="在缓存中是否存在" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-109" y="408" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d457qkSsfXu1P2RVq4Ds-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="d457qkSsfXu1P2RVq4Ds-7" target="d457qkSsfXu1P2RVq4Ds-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d457qkSsfXu1P2RVq4Ds-13" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="d457qkSsfXu1P2RVq4Ds-10">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d457qkSsfXu1P2RVq4Ds-7" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="97" y="417" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="d457qkSsfXu1P2RVq4Ds-9" value="执行对应的方法" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="62" y="564" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
